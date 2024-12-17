@@ -1,7 +1,7 @@
-**SuperSim POO 24 1N** • [Documentação](docs/README.md)
+** Mercado no Terminal POO-24-1N** • [Documentação](docs/README.md)
 ---
 
-# SuperSim-POO-24-1N
+# Mercado no Terminal POO-24-1N
 
 ## Projeto
 Este é um projeto desenvolvido para a disciplina de **Orientação à Objetos** da turma 24-1N do **SENAC**. Ele é licensiado sobre a [MIT](./LICENSE)
