@@ -1,4 +1,4 @@
-** Mercado no Terminal POO-24-1N** • [Documentação](docs/README.md)
+**Mercado no Terminal POO-24-1N** • [Documentação](docs/README.md)
 ---
 
 # Mercado no Terminal POO-24-1N
